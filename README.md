@@ -40,10 +40,10 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="23%" alt="Home">
-  <img src="screenshots/details.png" width="23%" alt="Details">
-  <img src="screenshots/player.png" width="23%" alt="Player">
-  <img src="screenshots/downloads.png" width="23%" alt="Downloads">
+  <img src="screenshots/Bankai_sc1.jpg" width="23%" alt="Home">
+  <img src="screenshots/Bankai_sc2.jpg" width="23%" alt="Details">
+  <img src="screenshots/Bankai_sc3.jpg" width="23%" alt="Player">
+  <img src="screenshots/Bankai_sc4.jpg" width="23%" alt="Downloads">
 </p>
 
 ---
